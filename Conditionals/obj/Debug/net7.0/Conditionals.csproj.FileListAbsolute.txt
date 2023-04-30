@@ -1,0 +1,15 @@
+/home/danieldantasdev/RiderProjects/Conditionals/Conditionals/bin/Debug/net7.0/Conditionals
+/home/danieldantasdev/RiderProjects/Conditionals/Conditionals/bin/Debug/net7.0/Conditionals.deps.json
+/home/danieldantasdev/RiderProjects/Conditionals/Conditionals/bin/Debug/net7.0/Conditionals.runtimeconfig.json
+/home/danieldantasdev/RiderProjects/Conditionals/Conditionals/bin/Debug/net7.0/Conditionals.dll
+/home/danieldantasdev/RiderProjects/Conditionals/Conditionals/bin/Debug/net7.0/Conditionals.pdb
+/home/danieldantasdev/RiderProjects/Conditionals/Conditionals/obj/Debug/net7.0/Conditionals.csproj.AssemblyReference.cache
+/home/danieldantasdev/RiderProjects/Conditionals/Conditionals/obj/Debug/net7.0/Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+/home/danieldantasdev/RiderProjects/Conditionals/Conditionals/obj/Debug/net7.0/Conditionals.AssemblyInfoInputs.cache
+/home/danieldantasdev/RiderProjects/Conditionals/Conditionals/obj/Debug/net7.0/Conditionals.AssemblyInfo.cs
+/home/danieldantasdev/RiderProjects/Conditionals/Conditionals/obj/Debug/net7.0/Conditionals.csproj.CoreCompileInputs.cache
+/home/danieldantasdev/RiderProjects/Conditionals/Conditionals/obj/Debug/net7.0/Conditionals.dll
+/home/danieldantasdev/RiderProjects/Conditionals/Conditionals/obj/Debug/net7.0/refint/Conditionals.dll
+/home/danieldantasdev/RiderProjects/Conditionals/Conditionals/obj/Debug/net7.0/Conditionals.pdb
+/home/danieldantasdev/RiderProjects/Conditionals/Conditionals/obj/Debug/net7.0/Conditionals.genruntimeconfig.cache
+/home/danieldantasdev/RiderProjects/Conditionals/Conditionals/obj/Debug/net7.0/ref/Conditionals.dll
